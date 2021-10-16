@@ -1,0 +1,4 @@
+enum WatchType
+	{
+		ANALOG,DIGITAL;
+	}
